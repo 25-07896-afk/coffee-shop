@@ -1,9 +1,4 @@
-import java.util.*;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-
-public class Main {
+BEANTRACK MANAGEMENT SYSTEM
 
     static Scanner sc = new Scanner(System.in);
 
