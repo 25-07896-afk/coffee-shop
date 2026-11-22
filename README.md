@@ -326,8 +326,8 @@ The following are the expected program outputs based on the actual functions imp
 
 1. **Main Menu**
    Displays the available features of the BeanTrack Management System[cite: 13].
-   `<img width="474" height="626" alt="c73163c9-58bc-4432-87f3-c71481308e18" src="https://github.com/user-attachments/assets/3560aa18-8500-48eb-8218-2905e370324d" />
-`
+   `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d932c48-f12d-4be4-95d2-7df8d6f90d1c" />'
+
 2. **Coffee Shop Menu**
    Displays all available coffee products, categories, product codes, and prices[cite: 14].
    `[Insert screenshot of the Coffee Shop Menu here]`[cite: 14]
