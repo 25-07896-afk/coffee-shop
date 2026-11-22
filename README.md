@@ -321,7 +321,7 @@ java Main
 
 ## Sample Output
 
-The following are the expected program outputs based on the actual functions implemented in the system[cite: 13]. Screenshots of the running program can be inserted under each section.
+The following are the expected program outputs based on the actual functions implemented in the system. Screenshots of the running program can be inserted under each section.
 
 1. **Main Menu**
    Displays the available features of the BeanTrack Management System
