@@ -367,16 +367,18 @@ The following are the expected program outputs based on the actual functions imp
 
 9. **Update Order Status**
     Allows the cashier to search for an order and mark it as completed[cite: 15].
-    `[Insert screenshot of Update Order Status here]`[cite: 15]
+    `[<img width="751" height="611" alt="f009a9a0-bdae-477e-8bc1-27bae83d6005" src="https://github.com/user-attachments/assets/c1aa2c14-8d79-4f5b-82a7-b42901622351" />
+]'
 
 10. **Search Customer Order**
     Displays the transaction details when a matching order number or customer name is entered[cite: 15].
-    `[Insert screenshot of Search Customer Order here]`[cite: 15]
+    `[<img width="800" height="186" alt="e720ec38-6dc2-42b9-b308-f106f7886884" src="https://github.com/user-attachments/assets/cf532cf2-1563-4519-b4c5-76af3f9c7504" />
+]'
 
 11. **Daily Sales Report**
     Displays the daily transaction summary, order status summary, seating area summary, and financial summary[cite: 15].
-    `[Insert screenshot of Daily Sales Report here]`[cite: 15]
-
+    `[<img width="751" height="611" alt="f009a9a0-bdae-477e-8bc1-27bae83d6005" src="https://github.com/user-attachments/assets/8b947bab-0460-40bf-9949-02abd47788d6" />
+]'
 ## Author and Acknowledgement
 
 This program, Cafe Severino - BeanTrack Management System, is developed by `Brew Code` from `IT - 2110` in compliance with the final project requirements for the course Object-Oriented Programming
