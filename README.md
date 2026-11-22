@@ -325,43 +325,43 @@ java Main
 The following are the expected program outputs based on the actual functions implemented in the system[cite: 13]. Screenshots of the running program can be inserted under each section[cite: 13].
 
 1. **Main Menu**
-   Displays the available features of the BeanTrack Management System[cite: 13].
+   Displays the available features of the BeanTrack Management System
    `[<img width="724" height="431" alt="4aea070f-b32a-4909-be35-41aed3c89908" src="https://github.com/user-attachments/assets/41252886-d6b0-4c93-b6d8-9b12399316c5" />
 ]'
 
 2. **Coffee Shop Menu**
-   Displays all available coffee products, categories, product codes, and prices[cite: 14].
+   Displays all available coffee products, categories, product codes, and prices
    `[<img width="738" height="863" alt="265eaba8-7d96-4c4c-a569-a1cfbdb60a85" src="https://github.com/user-attachments/assets/8a4b8f65-9e13-4adf-8270-f65eab6601bb" />
 ]'
 
 3. **New Customer Order**
-   Allows the cashier to enter the customer's name and select the seating area[cite: 14].
+   Allows the cashier to enter the customer's name and select the seating area
    `[<img width="764" height="299" alt="a62b0e74-13e2-47ef-bc1b-3d283e6eba83" src="https://github.com/user-attachments/assets/2abfbf2b-dc81-46d3-b20e-2a2792b95349" />
 ]'
 
 4. **Product Selection**
-   Allows the cashier to select products using their assigned product codes and enter the desired quantity[cite: 14].
+   Allows the cashier to select products using their assigned product codes and enter the desired quantity
    `[<img width="502" height="643" alt="01368d4d-863e-4931-a411-f094ef8c40d0" src="https://github.com/user-attachments/assets/abd3ea8d-b59b-4baa-8957-2042a7bc7198" />
 ]'
 
 5. **Order Summary**
-   Displays the selected products, quantities, subtotals, and total amount[cite: 14].
+   Displays the selected products, quantities, subtotals, and total amount
    `[<img width="768" height="288" alt="97cdf07e-3dd4-49bd-ab39-ce2c160a0958" src="https://github.com/user-attachments/assets/24f4b7b7-e222-4f76-a4ee-6b0cda0b0e4c" />
 ]'
 
 6. **Payment Processing Receipt**
-   Displays the total amount and accepts the cash received from the customer[cite: 14]. receipt after successful payment[cite: 14].
+   Displays the total amount and accepts the cash received from the customer[cite: 14]. receipt after successful payment
    `[<img width="749" height="695" alt="7e64ad4c-bc1e-4543-90bb-6a1127712650" src="https://github.com/user-attachments/assets/5439668d-fda3-4ae1-b792-04635936a112" />
 ]'
 
 
 7. **View All Orders**
-   Displays the list of customer transactions, including their order numbers, customer names, seating areas, statuses, and total amounts[cite: 14].
+   Displays the list of customer transactions, including their order numbers, customer names, seating areas, statuses, and total amounts
    `[<img width="834" height="161" alt="405fc52b-758d-4326-a976-8b881189d34a" src="https://github.com/user-attachments/assets/3f7071c2-4f84-445c-b8ee-3762e67dfc3b" />
 ]'
 
 8. **Pending Orders**
-   Displays all orders that have not yet been marked as completed[cite: 15].
+   Displays all orders that have not yet been marked as completed
    `[<img width="474" height="626" alt="c73163c9-58bc-4432-87f3-c71481308e18" src="https://github.com/user-attachments/assets/7cde3fd3-ce49-413a-a192-9cefe7bbfcf5" />
 ]'
 
