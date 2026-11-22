@@ -330,7 +330,8 @@ The following are the expected program outputs based on the actual functions imp
 
 2. **Coffee Shop Menu**
    Displays all available coffee products, categories, product codes, and prices[cite: 14].
-   `[Insert screenshot of the Coffee Shop Menu here]`[cite: 14]
+   `[<img width="474" height="626" alt="c73163c9-58bc-4432-87f3-c71481308e18" src="https://github.com/user-attachments/assets/f441ddfb-172b-4909-9715-6028639667f6" />
+   
 
 3. **New Customer Order**
    Allows the cashier to enter the customer's name and select the seating area[cite: 14].
