@@ -374,18 +374,17 @@ The following are the expected program outputs based on the actual functions imp
 
 ## Author and Acknowledgement
 
-This program, Cafe Severino - BeanTrack Management System, is developed by `[Insert Group Name]` from `[Insert Section]` in compliance with the final project requirements for the course Object-Oriented Programming[cite: 15].
+This program, Cafe Severino - BeanTrack Management System, is developed by `Brew Code` from `IT - 2110` in compliance with the final project requirements for the course Object-Oriented Programming[cite: 15].
 
 Lead Programmer:
 `Pajalla, Shann Raphael C.`[cite: 15]
 
 Members:
-`[Insert Member 1]`[cite: 15]
-`[Insert Member 2]`[cite: 15]
-`[Insert Member 3]`[cite: 15]
-`[Insert Member 4]`[cite: 15]
+`Andal, Ralf Terrence L.`[cite: 15]
+`Panes, Frank Luis A.`[cite: 15]
 
-Special thanks to `[Insert Instructor's Name]` for providing guidance and introducing the programming concepts necessary for developing this project[cite: 15].
+
+Special thanks to `Mr. Dominic Miko Valdes` for providing guidance and introducing the programming concepts necessary for developing this project[cite: 15].
 
 ## Future Enhancements
 
